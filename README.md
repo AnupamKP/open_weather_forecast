@@ -6,14 +6,12 @@ Weather data is being fetched from the openweathermap free api whose response is
 The api "http://api.openweathermap.org/data/2.5/forecast" is used to collect weekly weather forecast data , process it to required form in dataframe and report it in matploylib graph.
 
 
-## How to process locally:
+## How to process notebook locally:
 
-Step 1: Install all dependencies
+Step 1: Install all dependencies:
 
 ```
 pip3 install -r requirements.txt
-'''
+```
 
 Step 2 : Open the notebook ("Open Weather Forecast.ipynb") in jupyter 
-
-
